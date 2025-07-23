@@ -27,7 +27,7 @@ function CheatEngine () {
               begin scanning the game's memory.
             </h1>
             <div>
-              <img className="rounded-md" src="public/PvZ1.png" alt="PvZ1" />
+              <img className="rounded-md" src="/PvZ1.png" alt="PvZ1" />
             </div>
             <h1 className="text-[#00BCD4] text-2xl font-semibold font-display mt-10" >Sun Value Hacking ☀️</h1>
             <h1 className="text-[#E0E0E0] font-body mt-5">Please note that you'll have to do the steps below again whenever you restart the level. For a more concrete method that works when the level is reset please watch the video below.</h1>
@@ -131,7 +131,7 @@ function CheatEngine () {
           <h1 className="text-white text-lg">Created by Aaron Zhang | COMP6441 Project</h1>
           <div className="flex">
             <a href="https://github.com/JohnSummit3rd">
-              <img src="public/github.png" alt="github" />
+              <img src="/github.png" alt="github" />
             </a>
             <a className="text-lg text-white mt-5 hover:text-[#00FF99]" href="https://github.com/JohnSummit3rd">Github: @JohnSummit3rd</a>
           </div>

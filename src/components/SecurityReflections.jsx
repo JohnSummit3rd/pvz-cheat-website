@@ -69,7 +69,7 @@ function SecurityReflections () {
             <h1 className="text-white text-lg">Created by Aaron Zhang | COMP6441 Project</h1>
             <div className="flex">
               <a href="https://github.com/JohnSummit3rd">
-                <img src="public/github.png" alt="github" />
+                <img src="/github.png" alt="github" />
               </a>
               <a className="text-lg text-white mt-5 hover:text-[#00FF99]" href="https://github.com/JohnSummit3rd">Github: @JohnSummit3rd</a>
             </div>
