@@ -80,14 +80,14 @@ function PythonTool () {
           <h1 className="text-[#00BCD4] text-2xl font-semibold font-display mb-5 mt-5">GitHub Page</h1>
           <h1 className="text-[#E0E0E0]">Click on the image below to go to the GitHub Page:</h1>
           <a className="mt-5" href="https://github.com/JohnSummit3rd/pvz-hacking-toolkit">
-            <img src="src/assets/github.png" alt="github" />
+            <img src="public/github.png" alt="github" />
           </a>
         </div>
         <footer className="bg-panels h-50 mt-20 flex items-center justify-center flex-col font-body">
           <h1 className="text-white text-lg">Created by Aaron Zhang | COMP6441 Project</h1>
           <div className="flex">
             <a href="https://github.com/JohnSummit3rd">
-              <img src="src/assets/github.png" alt="github" />
+              <img src="public/github.png" alt="github" />
             </a>
             <a className="text-lg text-white mt-5 hover:text-[#00FF99]" href="https://github.com/JohnSummit3rd">Github: @JohnSummit3rd</a>
           </div>
